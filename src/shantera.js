@@ -1,5 +1,5 @@
 const shantera = (prefix, pushname) => {
-    return `*Palabras especificas para que el bot les responda*
+    return `*Palabras especificas para que el bot les responda y no seas ignorad@ XD*
 Fiesta del admin
 Admin party
 Viernes
@@ -38,7 +38,9 @@ Un chino
 No funciona
 Boliviano
 Enano
+
 _*Escribe tal y como esta en el mensaje, luego no te quejes que el bot no funciona.*_
+
 By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽`
 
 }
