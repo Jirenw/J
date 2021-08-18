@@ -1,5 +1,7 @@
 const help = (prefix) => {
 	return `
+_「BoT-☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾」_
+*「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」*
 
 ◉ *INFORMACION*
    ○ COMANDO: ⌜ ${prefix} ⌟
