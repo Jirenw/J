@@ -4,8 +4,10 @@ const levelmenu = (prefix, pushname) => {
  
 ══════════════
 PARA ACTIVARLO EL BOT NECESITA SER ADMIN.
+
 *PARA ACTIVAR NIVEL*
 *leveling 1
+
 *PARA DESACTIVAR NIVEL*
 *leveling 0
 ══════════════
