@@ -1,105 +1,97 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
-
 ◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
-
-◉ *NUEVOS COMANDOS*
-○ ${prefix}levelmenu
-Level para tus grupos
-○ ${prefix}antimenu
-Su nombre lo dice todo (antilink)
-○ ${prefix}otak
-Monas chinas
-○ ${prefix}shantera
-Interactua con el bot
-
-◉ *NUEVOS MENUS*
-○ ${prefix}juegos
-Diviértete con tus amigos :)
-○ ${prefix}desmenu
-Descargar musica ( videos próximamente )
-○ ${prefix}version
-Conoce la versión de tu bot
-○ ${prefix}welmenu
-Comando de bienvenida solo grupos
+   ○ COMANDO: ⌜ ${prefix} ⌟
+   ○ GRUPO OFC: ☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾
+   ○ ELLA: NO-TE-AMA.COM
+   ○ HORARIO DE ACTIVIDAD: 2p.m-5:30a.m 
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
-
-◉ *RESUELVE TUS DUDAS*
-  ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
-
-◉ *CREAR STICKERS*
-  ║
-  ╠ ○ ${prefix}sticker
-  ╠ ○ ${prefix}attp
-  ╠ Mas un texto corto
-  ╠ ○ ${prefix}stickergif
-  ╚ 6 segundos de video
-
-◉ *CONVERTIDORES*
-  ║
-  ╠ ○ ${prefix}toimg
-  ╠ De sticker a JPG
-  ╠ ○ ${prefix}tomp3
-  ╚ De video a MP3
-
-◉ *AUDIO*
-  ║
-  ╠ ○ ${prefix}idioma
-  ╚ ○ ${prefix}tts es (mas texto)
-
-◉ *OTROS*
-  ║
-  ╠ ○ ${prefix}wame
-  ╠ Link de Whatsapp
-  ╠ ○ ${prefix}qrcode
-  ╚ Coloca un texto
+Registrate con el comando ${prefix}daftar y tu NickName o Nombre.
 
 ◉ *GRUPOS*
   ║
-  ╠ ○ ${prefix}closegc
-  ╠ Cerrar el grupo solo admins
-  ╠ ○ ${prefix}opengc
-  ╠ Abrir grupo solo admins
-  ╠ ○ ${prefix}kickmenu
-  ╠ Eliminar a un miembro 
-  ╠ ○ ${prefix}promote
-  ╠ Dar admin a un miembro
-  ╠ ○ ${prefix}demote
-  ╠ Quitar el admin
-  ╠ ○ ${prefix}linkgc
-  ╠ Link del grupo
-  ╠ ○ ${prefix}adminlist
-  ╠ Nombra a los admins del grupo
-  ╠ ○ ${prefix}todos
-  ╚ Nombra a todos los del grupo
+  ╠○ ${prefix}closegc
+  ║  ➢Cerrar el grupo. [Solo Admins Pueden Hacerlo]
+  ╠○ ${prefix}opengc
+  ║  ➢Abrir grupo. [Solo Admins Pueden Hacerlo]
+  ╠○ ${prefix}kickmenu
+  ║  ➢Eliminar a un participante.
+  ╠○ ${prefix}promote
+  ║  ➢Dar el honor de ser admin a un participante.
+  ╠○ ${prefix}demote
+  ║  ➢Quitar Admin porque le falta odio :v.
+  ╠○ ${prefix}linkgc
+  ║  ➢Enlace del grupo.
+  ╠○ ${prefix}adminlist
+  ║  ➢Nombra a los administradores del grupo.
+  ╠○ ${prefix}todos
+  ║  ➢Nombra a todos los integrantes del grupo.
+  ╠○ ${prefix}antimenu
+  ║  ➢Antilink's.
+  ╠○ ${prefix}levelmenu
+  ║  ➢Nivel para los grupos.
+  ╠○ ${prefix}welmenu
+  ╚ ➢Comando de Bienvenida al grupo.
 
-Para usar estas funciones el bot necesita admin
+◉ *OTROS*
+  ║
+  ╠○ ${prefix}juegos
+  ║  ➢Divierte con tus amigos :)
+  ╠○ ${prefix}desmenu
+  ║  ➢Descargar musica y videos de YouTube.
+  ╠○ ${prefix}version
+  ║  ➢Conoce la versión del bot.
+  ╠○ ${prefix}otak
+  ║  ➢Monas chinas.
+  ╠○ ${prefix}shantera
+  ║  ➢Habla con el bot.
+  ╠○ ${prefix}wame
+  ║  ➢Link de tu Whatsapp.
+  ╠○ ${prefix}qrcode
+  ╚  ➢Coloca un texto
+
+◉ *CREAR STICKERS*
+  ║
+  ╠○ ${prefix}sticker
+  ╠○ ${prefix}attp
+  ║ ➢Mas un texto corto.
+  ╠○ ${prefix}stickergif
+  ╚ ➢6 segundos de video.
+
+◉ *CONVERTIDORES*
+  ║
+  ╠○ ${prefix}toimg
+  ║ ➢De sticker a imagen.
+  ╠○ ${prefix}tomp3
+  ╚ ➢De video a MP3.
+
+◉ *AUDIO*
+  ║
+  ╠○ ${prefix}idioma
+  ╠○ ${prefix}tts es
+  ╚ ➢mas texto.
+
+Para usar estas funciones el bot necesita ser administrador.
   
 ◉ *NSWF* 
   ║
-  ╚ ○ ${prefix}nsfwmenu
+  ╚○ ${prefix}nsfwmenu
 
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
+NOTAS.
 
-No te olvides de seguirme en instagram flaco ;)
+➢No Hagas spam ctmr, si no responde rápido espera. ;)
 
+➢No entres al grupo ofc a enviar tu enlace no seas Gil(a).
 
-ву ѕнαη∂υу
+➢Si quieres que el bot esté en tu grupo no hay problema manda mensaje al pv de Jiren. wa.me/+524591347471.
 
+*By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*
 
-⌜ *ごきげんよう :)* ⌟ 
+⌜ *🔥♥️Te Amo Wendy♥️🔥, Eres mi complemento Perfecto, Llegaste de la nada y te convertiste en mi todo👩‍❤️‍👨* ⌟ 
 `
 }
 
