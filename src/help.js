@@ -10,7 +10,7 @@ _「BoT-☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾」_
    ○ HORARIO DE ACTIVIDAD: 2p.m-5:30a.m 
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu NickName o Nombre.
+Registrate con el comando ${prefix}daftar y tu Nombre.
 
 ◉ *GRUPOS*
   ║
