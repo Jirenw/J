@@ -1,12 +1,12 @@
 const help = (prefix) => {
 	return `
-_「BoT-☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾」_
-*「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」*
+*「BoT-☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾」*
+_「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」_
 
 ◉ *INFORMACION*
    ○ COMANDO: ⌜ ${prefix} ⌟
    ○ GRUPO OFC: ☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾
-   ○ ELLA: NO-TE-AMA.COM
+   ○ ELLA: NO TE AMA
    ○ HORARIO DE ACTIVIDAD: 2p.m-5:30a.m 
 
 ◉ *PARA USAR EL BOT*
@@ -74,8 +74,6 @@ Registrate con el comando ${prefix}daftar y tu Nombre.
   ╠○ ${prefix}idioma
   ╠○ ${prefix}tts es
   ╚ ➢mas texto.
-
-Para usar estas funciones el bot necesita ser administrador.
   
 ◉ *NSWF* 
   ║
@@ -85,7 +83,9 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 
 NOTAS.
 
-➢No Hagas spam ctmr, si no responde rápido espera. ;)
+➢Para que el bot cumpla algunas funciones necesita ser Admin.
+
+➢No Hagas spam la concha de tu madre, si no responde rápido espera. ;)
 
 ➢No entres al grupo ofc a enviar tu enlace no seas Gil(a).
 
@@ -93,7 +93,9 @@ NOTAS.
 
 *By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*
 
-⌜ *🔥♥️Te Amo Wendy♥️🔥, Eres mi complemento Perfecto, Llegaste de la nada y te convertiste en mi todo👩‍❤️‍👨* ⌟ 
+♡━━━━━━━━━━━━━━━━♡━━━━━━━━━━━━━━━♡
+*⌜🔥♥️Te Amo Wendy♥️🔥, Eres mi complemento Perfecto, Llegaste de la nada y te convertiste en mi todo👩‍❤️‍👨♡My Lady♡⌟*
+♡━━━━━━━━━━━━━━━━♡━━━━━━━━━━━━━━━♡
 `
 }
 
