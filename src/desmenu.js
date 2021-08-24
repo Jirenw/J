@@ -10,7 +10,7 @@ ${prefix}play2
 Una alternativa por si *play llego a su limite de canciones.
 
 ${prefix}play
-Coloca el nombre de la cancion, o el link del video YouTube.
+Coloca el nombre de la cancion, o el link de YouTube.
 
 _Ejm_
 ${prefix}play Faded
