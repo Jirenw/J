@@ -1,5 +1,5 @@
 const otak = (prefix, pushname) => {
-    return `*Palabras especificas para que el bot interactue con ustedes, otakus🌚*
+    return `*Palabras especificas para que el bot interactue con ustedes otakus🌚*
 
 
 Quien es tu sempai botsito
