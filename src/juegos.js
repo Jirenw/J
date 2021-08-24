@@ -3,7 +3,7 @@ const juegos = (prefix, pushname) => {
 *COMANDOS DE JUEGOS 👾*
  
 ${prefix}rankgay
-Conoce a el top de los mas gays del grupo😆
+Conoce a los mas gays del grupo😆
 
 ${prefix}gay
 Conoce que tan homosexual eres😂
