@@ -268,7 +268,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `HOLAA!! @${num.split('@')[0]} ¿COMO ESTAS?😃\n\n『BIENVENID@ *${mdata.subject}*』\n\nUn gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para saber de qué va estoy y todo XD 🧐_\n\n*Y disfruta de este grupo y diviertite 🥳*`
+				teks = `HOLAA!! @${num.split('@')[0]} ¿COMO ESTAS? Guap@\n\n『BIENVENID@ *${mdata.subject}*』\n\nUn gusto conocerte y tenerte por acá amig@ 🤗\n\n_Recuerda leer las reglas del grupo(En la descripción) para saber de qué se trata el grupo y lo que se puede enviar u hacer y lo que no🧐_\n\n*Y sin más que decir disfruta de este grupo y diviertete, recuerda ser Activ@ para tener una larga estadía por aqui 🥳*`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
@@ -329,13 +329,13 @@ async function starts() {
                                         pegatina: 'ESPERE ESTOY HACIENDO TU STICKER~[sin spamear] 👏\n\n*Recuerda los stickersgif son de 6 segundos*\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					attp: 'Calma crack estoy haciendo tu texto a sticker 👏\n\n*Esto puede demorar unos minutos[no spamees ctmr]*\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					imgs: 'Ey señor(a)🌚\n\n* Estoy Convirtiendo tu Sticker a Imagen [no spamees]🔄*\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
-					mpcancion: 'Calmaoooo estoy procesando 😎\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
+					mpcancion: 'Calma estoy procesando 🌚\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					mpa: 'Ey flac@ 🥴\n\n*Estoy decargando tu cancion 🔄*\n\nEspere un momento, por favor\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
                                         xn: 'Calmate 😎\n\n*Estoy descargando tu video 🔄*\n\nEspere un momento, por favor\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					mpv: 'Calma ✋🥸🤚\n\n*Estoy descargando tu video 🔄*\n\nEspere un momento, por favor\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					insta: 'Calma,calma 😎\n\n*Estoy descargando tu post 🔄*\n\nEspere un momento, por favor\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
-					musica: 'Calma guap@ estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nSi no envio tu musica checa que version tienes del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
-					musica2: 'Calma guap@ estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nSi no envio tu musica checa que version tienes del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
+					musica: 'Calma guap@ estoy bucando tu canción 😎~[Sin hacer spam]\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nSi no envio tu musica revisa la versión del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
+					musica2: 'Calma guap@ estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nSi no envio tu musica revisa la version del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					daftarB: `「NO ESTAS REGISTRADO」\n\nNO APARECES EN MI BASE DE DATOS~[REGISTRATE]✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar UwU`,
 				}
 			}
@@ -475,7 +475,7 @@ async function starts() {
 		if (isGroupAdmins) return reply('Eres un administrador del grupo, así que no te prohibiré el uso de enlaces :)')
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*LINK DE WHATSAPP DETECTADO 📢* ${sender.split("@")[0]} Usted será expulsado del grupo y próximamente visitado por *JIREN Y WENDY-CHAN<3`)
+		reply(`*LINK DE WHATSAPP DETECTADO, DETECTE TU MIERDA DE ENLACE CTMR 📢* ${sender.split("@")[0]} Usted será expulsado del grupo y próximamente visitado por *JIREN Y WENDY-CHAN<3`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
@@ -501,7 +501,7 @@ async function starts() {
                 addLevelingXp(sender, amountXp)
                 if (requiredXp <= getLevelingXp(sender)) {
                     addLevelingLevel(sender, 1)
-                    await reply(`*「 SUBISTE DE NIVEL🥳 」*\n\nFelicidades sigue asi UwU, sigue subiendo de nivel y alcanza el máximo XD👏\n\n*NOMBRE*\n${pushname}\n*XP*: ${getLevelingXp(sender)}\n*NIVEL*: ${getLevel} ⟿ ${getLevelingLevel(sender)}\n\n_*Para ver tu XP en tiempo real coloca el comando ${prefix}level*_`)
+                    await reply(`*「 SUBISTE DE NIVEL🥳 」*\n\nFelicidades guap@ sigue asi UwU, sigue subiendo de nivel y alcanza el máximo XD👏\n\n*NOMBRE*\n${pushname}\n*XP*: ${getLevelingXp(sender)}\n*NIVEL*: ${getLevel} ⟿ ${getLevelingLevel(sender)}\n\n_*Para ver tu XP en tiempo real coloca el comando ${prefix}level*_`)
                 }
             } catch (err) {
                 console.error(err)
@@ -721,7 +721,7 @@ break
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 break
 	case 'kickmenu':
-                client.sendMessage(from, '*Comando De Banear 📤*\n\nPara usar esta funcion el bot necesita admin\n\nComando: *kick + la personas que deseas eliminar\n\nEjemplo: *kick @xxxxxx\n\n*⚠ADVERTENCIA⚠*\nNUNCA COLOCAR MAS DE DOS PERSONAS PARA QUE LAS ELIMINE\n\nEjemplo: *kick @xxxxxx @xxxxx\n\nYa que el numero del bot se ira a soporte\n\nQuedas advertido :)\n\nву ѕнαη∂υу',MessageType.text, { quoted: mek} )
+                client.sendMessage(from, '*Comando De Banear 📤*\n\nPara usar esta funcion el bot debe ser admin\n\nComando: *kick + la personas que deseas eliminar\n\nEjemplo: *kick @xxxxxx\n\n*⚠ADVERTENCIA⚠*\nNUNCA COLOCAR MAS DE DOS PERSONAS PARA QUE LAS ELIMINE\n\nEjemplo: *kick @xxxxxx @xxxxx\n\nYa que el numero del bot se ira a soporte\n\nQuedas advertido :)\n\nву ѕнαη∂υу',MessageType.text, { quoted: mek} )
                break
 	case 'hidetag':
                 client.updatePresence(from, Presence.composing) 
@@ -796,7 +796,7 @@ break
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions('╔══✪〘 HOLA A TOD@S 〙✪══\n╠➥'+teks+'╚═〘 By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽 〙', members_id, true)
+					mentions('╔══✪〘 HOLA A TOD@S SALUDEN 〙✪══\n╠➥'+teks+'╚═〘 By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽 〙', members_id, true)
 					break
                                 case 'send':
 					var pc = body.slice(6)
@@ -1068,7 +1068,7 @@ break
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 					var nomor = mek.participant
 					const close = {
-					text: `Grupo cerrado por el administrador @${nomor.split("@s.whatsapp.net")[0]}\nAhora *solo los administradores* puede enviar mensajes Porque el/la admin decidió que así sea ._.`,
+					text: `Grupo cerrado por el administrador @${nomor.split("@s.whatsapp.net")[0]}\nAhora *solo los administradores* puede enviar mensajes Porque el/la admin decidió que así sea._.`,
 					contextInfo: { mentionedJid: [nomor] }
 					}
 					client.groupSettingChange (from, GroupSettingChange.messageSend, true);
@@ -1271,7 +1271,7 @@ break
 						if (isWelkom) return reply('Ya esta activada!!!')
 						welkom.push(from)
 						fs.writeFileSync('./database/json/welkom.json', JSON.stringify(welkom))
-						reply('❬ ✅ ❭ La funcion de bienvenida esta habilitada en este grupo')
+						reply('❬ ✅ ❭ La funcion de bienvenida esta habilitada en este grupo, A partir de ahora daré la Bienvenida a cada nuevo fantasmon que se una JAJAJA')
 					} else if (Number(args[0]) === 0) {
 						welkom.splice(from)
 						fs.writeFileSync('./database/json/welkom.json', JSON.stringify(welkom))
@@ -1304,7 +1304,7 @@ break
 					} else if (Number(args[0]) === 0) {
 						nsfw.splice(from, 1)
 						fs.writeFileSync('./database/json/nsfw.json', JSON.stringify(nsfw))
-						reply('❬ ✅ ❭ La funcion NSFW esta deshabilitado en este grupo')
+						reply('❬ ✅ ❭ La funcion NSFW esta deshabilitado en este grupo [Mod: +18 Activado :v]')
 					} else {
 						reply('Digite 1 para activarlo, 0 para desactivarlo')
 					}
