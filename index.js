@@ -272,7 +272,7 @@ async function starts() {
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `Bueno, se fue @${num.split('@')[0]} 👋\n\nSayonara 😎`
+				teks = `Se fue, porque le falta odio @${num.split('@')[0]} 👋\n\nSayonara🌚, a propósito quien Mrd era?, Bueno un(a) fantasmon(a) menos JAJA`
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
@@ -796,7 +796,7 @@ break
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions('╔══✪〘 HOLA A TOD@S SALUDEN 〙✪══\n╠➥'+teks+'╚═〘 By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽 〙', members_id, true)
+					mentions('╔══✪〘 HOLA A TOD@S 〙✪══\n╠➥'+teks+'╚═〘 By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽 〙', members_id, true)
 					break
                                 case 'send':
 					var pc = body.slice(6)
