@@ -1,15 +1,19 @@
 const help = (prefix) => {
 	return `
 _「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」_
+          (°~°)
+         <,︻╦̵̵̿╤─ ҉     ~  •
+█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
+▂▄▅█████████▅▄▃▂…
+[███████████████████]
+*╚╩══✠INFORMACIÓN✠══╩╝*
 
-◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
-*╚╩══• •✠•INFORMACIÓN•✠ • •══╩╝*
-
- *○ COMANDO:* ⌜ ${prefix} ⌟
+   *○ COMANDO:* ⌜ ${prefix} ⌟
  *○ GRUPO OFC:*☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾
 
 *PARA USAR EL BOT*
 _Registrate con el comando ${prefix}daftar y tu Nombre._
+
  ┏━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄⟞⟦GRUPOS⟧⟝┄┉┉━┛*
  ┣☛ ${prefix}closegc
