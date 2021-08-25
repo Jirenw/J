@@ -336,7 +336,7 @@ async function starts() {
 					insta: 'Calma,calma 😎\n\n*Estoy descargando tu post 🔄*\n\nEspere un momento, por favor\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					musica: 'Calma guap@ estoy bucando tu canción 😎~[Sin hacer spam]\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nSi no envio tu musica revisa la versión del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
 					musica2: 'Calma guap@ estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nSi no envio tu musica revisa la version del bot con *version\n\nBy.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽',
-					daftarB: `「NO ESTAS REGISTRADO」\n\nNO APARECES EN MI BASE DE DATOS~[REGISTRATE]✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar UwU`,
+					daftarB: `「NO ESTAS REGISTRADO」\n\nNO APARECES EN MI BASE DE DATOS~[REGISTRATE]💻📱\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar UwU`,
 				}
 			}
     			const apakah = ['Si','No']
